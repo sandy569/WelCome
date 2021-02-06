@@ -6,6 +6,7 @@ object Welcome  {
     println(y)
     println("Sandy Welcome !")
     print("sandu in MASTER :")
+    print("sandy in MASTER :")
   }
 
 }
