@@ -5,6 +5,7 @@ object Welcome  {
     val y = x
     println(y)
     println("Sandy Welcome !")
+    print("sandu in MASTER :")
   }
 
 }
